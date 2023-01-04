@@ -1,8 +1,12 @@
 body{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
     margin: 2;
     background: whitesmoke;
     text-align: center;
 }
+
+
 .images-headshot1{
     width: 700px;
 }
