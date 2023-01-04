@@ -5,7 +5,9 @@ body{
     background: whitesmoke;
     text-align: center;
 }
-
+p{
+    font: bold 12pt Georgia;
+}
 
 .images-headshot1{
     width: 500px;
