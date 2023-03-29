@@ -1,2 +1,2 @@
 # JosephT
-This is my personla website. ENJOY!
+This is my personal website. ENJOY!
